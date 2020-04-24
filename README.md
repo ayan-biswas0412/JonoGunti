@@ -13,9 +13,9 @@ This is a people counter program that detects the number of people in a single i
 
 
 * After Cloning the Repository Just Enter this code to the terminal 
-(Open the terminal from inside this downloaded folder)
-
-```./test.sh```
+  (Open the terminal from inside this downloaded folder)
+   
+   ```./test.sh```
 
 * If all are set and you get no error then you can proceed to the next steps and connect it with the IP Camera if your chosen device (Drones , CCTVs or Mobile Devices ).
 
@@ -27,7 +27,7 @@ This is a people counter program that detects the number of people in a single i
 
 2. Then Open the app.
 
-3. Select **Start Server**
+3. Select **Start Server** 
 
 4. Note Down the IPv4 address.
 
@@ -35,7 +35,11 @@ This is a people counter program that detects the number of people in a single i
    
    ```./run.sh```
 
-6. Enter the IPv4 address of the camera in the terminal when prompted and start Surveillancing
+6. Enter the IPv4 address of the camera in the terminal when prompted and start Surveillancing.
+
+```js
+ 𝓢𝓽𝓪𝔂 𝓗𝓸𝓶𝓮 , 𝓢𝓽𝓸𝓹 𝓽𝓱𝓮 𝓒𝓸𝓶𝓶𝓾𝓷𝓲𝓽𝔂 𝓢𝓹𝓻𝓮𝓪𝓭. 𝕊𝕒𝕧𝕖 𝕪𝕠𝕦𝕣𝕤𝕖𝕝𝕗, 𝕊𝕒𝕧𝕖 𝕪𝕠𝕦𝕣 𝕤𝕠𝕔𝕚𝕖𝕥𝕪
+```
 
 
   
