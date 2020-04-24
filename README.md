@@ -1,5 +1,7 @@
 # Jono-Gunti (The People Counter)
 
+This is a people counter program that detects the number of people in a single in any road by analysing video via IP Camera of Drone or Mobile device or it can also analyze a recorded video file.I think it will be really very helpfull if anybody uses it in their drones to surveillance about that the no of peoples are roaming outside.  
+
 ---
 > ## :mask: [COVID-19](http://corona-cases-india.netlify.com/) | Stay Home, Stay Safe! :house:  <br> :mag_right: Checkout [this](http://corona-cases-india.netlify.com/) web app for live CORONA updates. 
 
@@ -8,7 +10,6 @@
 
 
 
-This is a people counter program that detects the number of people in a single place by analysing video via IP Camera of Drone or Mobile device or it can also analyze a recorded video file.
 
 
 * After Cloning the Repository Just Copy and paste this code to the terminal 
