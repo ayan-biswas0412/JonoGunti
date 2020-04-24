@@ -12,12 +12,12 @@ This is a people counter program that detects the number of people in a single i
 
 
 
-* After Cloning the Repository Just Copy and paste this code to the terminal 
+* After Cloning the Repository Just Enter this code to the terminal 
 (Open the terminal from inside this downloaded folder)
 
-```python people_counter.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --input videos/example_01.mp4 --output output.avi```
+```./test.sh```
 
-* If all are set then you can connect it with the IP Camera if your chosen device (Drones , CCTVs or Mobile Devices ).
+* If all are set and you get no error then you can proceed to the next steps and connect it with the IP Camera if your chosen device (Drones , CCTVs or Mobile Devices ).
 
 **To Connect with another devices just follow this steps .**
 (Here connection with a mobile device is shown ).
@@ -31,9 +31,9 @@ This is a people counter program that detects the number of people in a single i
 
 4. Note Down the IPv4 address.
 
-5. Copy and Paste the following code in terminal (Open the terminal from inside this downloaded folder).
+5. Enter the following code in terminal (Open the terminal from inside this downloaded folder).
    
-   ```python people_counter.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --output output.avi```
+   ```./run.sh```
 
 6. Enter the IPv4 address of the camera in the terminal when prompted and start Surveillancing
 
