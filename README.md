@@ -1,4 +1,13 @@
 # Jono-Gunti (The People Counter)
+
+---
+> ## :mask: [COVID-19](http://corona-cases-india.netlify.com/) | Stay Home, Stay Safe! :house:  <br> :mag_right: Checkout [this](http://corona-cases-india.netlify.com/) web app for live CORONA updates. 
+
+> ## :bar_chart: Checkout the [COVID-19 Tacker :mask: | INDIA](https://indiafightscorona.netlify.app/) :india: 
+---
+
+
+
 This is a people counter program that detects the number of people in a single place by analysing video via IP Camera of Drone or Mobile device or it can also analyze a recorded video file.
 
 
