@@ -9,10 +9,11 @@ This is a people counter program that detects the number of people in a single i
 ---
 
 
+**To test my program just follow this steps .**
 
+* First Clone/Download this repository to your computer.
 
-
-* After Cloning the Repository Just Enter this code to the terminal 
+* After Downloading/Cloning the Repository Just Enter this code to the terminal 
   (Open the terminal from inside this downloaded folder)
    
    ```./test.sh```
