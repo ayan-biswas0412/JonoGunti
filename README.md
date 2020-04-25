@@ -30,7 +30,7 @@ Requirements
 * Matplotlib
 * OpenCV
 
-**To use my programme this requirements have to be fulfilled in your machine**
+**To use my program this requirements have to be fulfilled in your machine**
  
 **To test my program just follow this steps .**
 
