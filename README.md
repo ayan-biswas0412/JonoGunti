@@ -17,6 +17,21 @@ This is a people counter program that detects the number of people in a single i
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ayan-biswas0412/JonoGunti?logo=github)](https://github.com/ayan-biswas0412/JonoGunti) [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ayan-biswas0412/JonoGunti?color=bluevoilet&logo=github)](https://github.com/ayan-biswas0412/JonoGunti/commits/) [![GitHub repo size](https://img.shields.io/github/repo-size/ayan-biswas0412/JonoGunti?logo=github)](https://github.com/ayan-biswas0412/JonoGunti)
 
+Requirements
+------------
+* Python3 (my version of development is Python 3.7.5 64-bit)
+* Pyimagesearch
+* Imutils
+* argparse
+* time
+* dlib
+* scipy
+* Numpy
+* Matplotlib
+* OpenCV
+
+**To use my programme this requirements have to be fulfilled in your machine**
+ 
 **To test my program just follow this steps .**
 
 * First Clone/Download this repository to your computer.

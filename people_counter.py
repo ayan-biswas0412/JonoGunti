@@ -51,6 +51,7 @@ net = cv2.dnn.readNetFromCaffe(args["prototxt"], args["model"])
 # if a video path was not supplied, grab a reference to the ipcamera from any device
 if not args.get("input", False):
 	print("[INFO] starting video stream...")
+	print("[INFO] All Set...")
 	url = raw_input("Please enter the address of the IP webcam : ")
 	finalurl = "http://"+url+"/video"
 	vs = VideoStream(finalurl).start()
@@ -59,6 +60,7 @@ if not args.get("input", False):
 # otherwise, grab a reference to the video file
 else:
 	print("[INFO] opening video file...")
+	print("[INFO] All are ok you can now connect IP Camera....")
 	vs = cv2.VideoCapture(args["input"])
 
 
