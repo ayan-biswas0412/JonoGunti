@@ -69,8 +69,9 @@ Requirements
 
 - **_To reduce the percentage of people roaming outside everyday_**
 - **_To provide better tracking system and proper measurement of people density in various areas_**
-  
 
+### Citation 
+   1. The ML Model was built by taken help from http://www.pyimagesearch.com , and special thanks to Adrian Rosebrock for the awesome contribution in the image processing domain.
 
 
 
